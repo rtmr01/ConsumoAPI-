@@ -14,7 +14,7 @@ video_ids = list(video_data.keys())
 stats_response = youtube.videos().list(part="snippet,statistics,contentDetails", id=",".join(video_ids)).execute()
 
 
-with open('video_stats.csv', mode='w', newline='', encoding='utf-8') as file:
+with open('Estatísticas.csv', mode='w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
     writer.writerow(["Título", "ID do vídeo", "Views", "Likes", "Comentários", "Duração", "Data de publicação"])
 
