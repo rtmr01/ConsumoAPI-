@@ -14,17 +14,16 @@
 
 Siga os passos abaixo para configurar o ambiente:
 
-1. **Baixe o Visual Studio Code**:
-   - [Visual Studio Code](https://code.visualstudio.com/download)
-
+1. **Faça um fork ou clone do repositório**:
+   - Acesse o repositório no GitHub: [DesafioRay](https://github.com/rtmr01/DesafioRay)
+   - 
 2. **Instale o Python 3**:
    - Certifique-se de ter a versão 3 do Python instalada.
 
 3. **Instale as bibliotecas do Google**:
    - No terminal, execute os seguintes comandos:
      ```bash
-     pip install --upgrade google-api-python-client
-     pip install --upgrade google-auth-oauthlib google-auth-httplib2
+     pip install --requirements.txt
      ```
 
 4. **Faça um fork ou clone do repositório**:
