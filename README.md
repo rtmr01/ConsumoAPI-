@@ -23,7 +23,7 @@ Siga os passos abaixo para configurar o ambiente:
 3. **Instale as bibliotecas do Google**:
    - No terminal, execute os seguintes comandos:
      ```bash
-     pip install --requirements.txt
+     pip install -r requirements.txt
      ```
 
 4. **Faça um fork ou clone do repositório**:
