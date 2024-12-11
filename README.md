@@ -52,3 +52,6 @@ O maior desafio na construção do dashboard foi a **transformação de dados**.
 - **Identificação de pilotos mais mencionados**: Foi necessário criar uma coluna extra para verificar os pilotos mais mencionados em cada descrição, impactando diretamente as estatísticas dos highlights gerados.
   
 - **Conversão de dados**: Alguns dados eram gerados como "strings", o que exigiu a conversão para números inteiros na planilha para que pudessem ser corretamente analisados.
+
+- Dashboard disponível em [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzBmM2IxZGQtNGZkNi00ZDk3LTliYTUtMzAwMWJhMGYwNTU1IiwidCI6ImUyZjc3ZDAwLTAxNjMtNGNmNi05MmIwLTQ4NGJhZmY5ZGY3ZCJ9&pageName=af9a926c575b387b4403)
+
