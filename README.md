@@ -19,14 +19,23 @@ Siga os passos abaixo para configurar o ambiente:
    - 
 2. **Instale o Python 3**:
    - Certifique-se de ter a versão 3 do Python instalada.
+3. **Crie um ambiente virtual**:
+   - No terminal, navegue até o diretório do projeto clonado e execute o seguinte comando:
+     ```bash
+     python -m venv venv
+     ```
+   - Ative o ambiente virtual:
+     ```bash
+     venv\Scripts\activate
+     ```
 
-3. **Instale as bibliotecas do Google**:
+4. **Instale as bibliotecas do Google**:
    - No terminal, execute os seguintes comandos:
      ```bash
      pip install -r requirements.txt
      ```
 
-4. **Faça um fork ou clone do repositório**:
+5. **Faça um fork ou clone do repositório**:
    - Acesse o repositório no GitHub: [DesafioRay](https://github.com/rtmr01/DesafioRay)
 
 ## Construção do Dashboard
