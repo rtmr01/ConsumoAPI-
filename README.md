@@ -7,12 +7,7 @@ o número de visualizações, comentários, likes, descrição, título, id do v
 ## Desafios Enfrentados
 
 ### Maior Desafio: 
-**Entender como usar as novas ferramentas **, como as bibliotecas do Google, suas funções e entender a documentação da API do YouTube.
-
-## Lembretes Importantes
-
-- **Vídeos com thumbnail de batida** têm mais visualizações.
-  - Exemplos: *HungriaGP* e *MonacoGP*.
+**Entender como usar as novas ferramentas**, como as bibliotecas do Google, suas funções e entender a documentação da API do YouTube.
 
 ## Como Rodar o Código?
 
