@@ -4,10 +4,10 @@ O código utiliza a biblioteca googleapiclient e uma chave API do YouTube para c
 [fórmula 1](https://www.youtube.com/playlist?list=PLfoNZDHitwjUv0pjTwlV1vzaE0r7UDVDR). O script gera uma planilha com
 o número de visualizações, comentários, likes, descrição, título, id do vídeo, data de publicação, duração e palavras-chaves.
 
-## Desafios Enfrentados
+## Desafios Enfrentados na construção do código
 
 ### Maior Desafio: 
-**Entender como usar as novas ferramentas**, como as bibliotecas do Google, suas funções e entender a documentação da API do YouTube.
+**Entender como usar as novas ferramentas**, como as bibliotecas do Google, suas funções e compreender a documentação da API do YouTube.
 
 ## Como Rodar o Código?
 
@@ -60,9 +60,14 @@ O dashboard interativo foi construído com as seguintes ferramentas:
 
 O maior desafio na construção do dashboard foi a **transformação de dados**. Alguns obstáculos que surgiram:
 
-- **Identificação de pilotos mais mencionados**: Foi necessário criar uma coluna extra para verificar os pilotos mais mencionados em cada descrição, impactando diretamente as estatísticas dos highlights gerados.
-  
+- **Identificação de pilotos mais mencionados**: Foi necessário tratar a coluna de descrição,criando uma cópia e eliminando todas os caracteres (exceto o sobrenome dos pilotos) para criar uma lista integrada com os demais gráficos do dashboard.
+
 - **Conversão de dados**: Alguns dados eram gerados como "strings", o que exigiu a conversão para números inteiros na planilha para que pudessem ser corretamente analisados.
+  
+- **Criação do exibidor de duração**: Os dados de duração do vídeo eram recebidos em dias (D:HH:MM:SS), foi necessário adcionar uma fórmula que multiplica por 86400 os dias porque um dia tem exatamente 86.400 segundos (24 horas x 60 minutos x 60 segundos).
+Assim, transformamos a fração de dia em um número de segundos. Por exemplo, 0,000694 x 86400 vira algo como 60 segundos.
+Subtrai 1 segundo para corrigir um erro de arredondamento da API e do YouTube.
+
 
 - Dashboard disponível em [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzBmM2IxZGQtNGZkNi00ZDk3LTliYTUtMzAwMWJhMGYwNTU1IiwidCI6ImUyZjc3ZDAwLTAxNjMtNGNmNi05MmIwLTQ4NGJhZmY5ZGY3ZCJ9&pageName=af9a926c575b387b4403)
 
