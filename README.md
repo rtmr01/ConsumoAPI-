@@ -1,7 +1,7 @@
 # Desafio de Consumo de API - Ray Consulting
 ## Código python
 O código utiliza a biblioteca googleapiclient e uma chave API do YouTube para consumir dados da playlist
-[fórmula 1](https://www.youtube.com/playlist?list=PLfoNZDHitwjUv0pjTwlV1vzaE0r7UDVDR). O script gera uma planilha com
+[Formula 1](https://www.youtube.com/playlist?list=PLfoNZDHitwjUv0pjTwlV1vzaE0r7UDVDR). O script gera uma planilha com
 o número de visualizações, comentários, likes, descrição, título, id do vídeo, data de publicação, duração e palavras-chaves.
 
 ## Desafios Enfrentados na construção do código
