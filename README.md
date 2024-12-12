@@ -53,6 +53,7 @@ Siga os passos abaixo para configurar o ambiente:
 
 
 ## Construção do Dashboard
+Dashboard disponível em [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzBmM2IxZGQtNGZkNi00ZDk3LTliYTUtMzAwMWJhMGYwNTU1IiwidCI6ImUyZjc3ZDAwLTAxNjMtNGNmNi05MmIwLTQ4NGJhZmY5ZGY3ZCJ9&pageName=af9a926c575b387b4403)
 
 O dashboard interativo foi construído com as seguintes ferramentas:
 
@@ -72,5 +73,4 @@ Assim, transformamos a fração de dia em um número de segundos. Por exemplo, 0
 Subtrai 1 segundo para corrigir um erro de arredondamento da API e do YouTube.
 
 
-- Dashboard disponível em [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzBmM2IxZGQtNGZkNi00ZDk3LTliYTUtMzAwMWJhMGYwNTU1IiwidCI6ImUyZjc3ZDAwLTAxNjMtNGNmNi05MmIwLTQ4NGJhZmY5ZGY3ZCJ9&pageName=af9a926c575b387b4403)
 
