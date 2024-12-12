@@ -1,9 +1,13 @@
 # Desafio de Consumo de API - Ray Consulting
+## Código python
+O código utiliza a biblioteca googleapiclient e uma chave API do YouTube para consumir dados da playlist
+[fórmula 1](https://www.youtube.com/playlist?list=PLfoNZDHitwjUv0pjTwlV1vzaE0r7UDVDR). O script gera uma planilha com
+o número de visualizações, comentários, likes, descrição, título, id do vídeo, data de publicação, duração e palavras-chaves.
 
 ## Desafios Enfrentados
 
 ### Maior Desafio: 
-**Entender como usar as novas ferramentas inéditas**, como as bibliotecas do Google.
+**Entender como usar as novas ferramentas **, como as bibliotecas do Google, suas funções e entender a documentação da API do YouTube.
 
 ## Lembretes Importantes
 
@@ -16,7 +20,9 @@ Siga os passos abaixo para configurar o ambiente:
 
 1. **Faça um fork ou clone do repositório**:
    - Acesse o repositório no GitHub: [DesafioRay](https://github.com/rtmr01/DesafioRay)
-   - 
+   - ```bash
+     git clone https://github.com/rtmr01/DesafioRay
+     ```
 2. **Instale o Python 3**:
    - Certifique-se de ter a versão 3 do Python instalada.
 3. **Crie um ambiente virtual**:
@@ -35,8 +41,6 @@ Siga os passos abaixo para configurar o ambiente:
      pip install -r requirements.txt
      ```
 
-5. **Faça um fork ou clone do repositório**:
-   - Acesse o repositório no GitHub: [DesafioRay](https://github.com/rtmr01/DesafioRay)
 
 ## Construção do Dashboard
 
