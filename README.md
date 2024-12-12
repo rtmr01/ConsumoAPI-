@@ -23,8 +23,10 @@ Siga os passos abaixo para configurar o ambiente:
    - ```bash
      git clone https://github.com/rtmr01/DesafioRay
      ```
+
 2. **Instale o Python 3**:
    - Certifique-se de ter a versão 3 do Python instalada.
+
 3. **Crie um ambiente virtual**:
    - No terminal, navegue até o diretório do projeto clonado e execute o seguinte comando:
      ```bash
@@ -40,8 +42,9 @@ Siga os passos abaixo para configurar o ambiente:
      ```bash
      pip install -r requirements.txt
      ```
-5. **Rode o código**
-   -No terminal execute
+
+5. **Rode o código**:
+   - No terminal, execute:
      ```bash
      python main.py
      ```
