@@ -21,6 +21,10 @@ Siga os passos abaixo para configurar o ambiente:
 
 2. **Instale o Python 3**:
    - Certifique-se de ter a versão 3 do Python instalada.
+     ```bash
+     python --version
+
+     ```
 
 3. **Crie um ambiente virtual**:
    - No terminal, navegue até o diretório do projeto clonado e execute o seguinte comando:
