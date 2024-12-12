@@ -6,8 +6,9 @@ o número de visualizações, comentários, likes, descrição, título, id do v
 
 ## Desafios Enfrentados na construção do código
 
-### Maior Desafio: 
-**Entender como usar as novas ferramentas**, como as bibliotecas do Google, suas funções e compreender a documentação da API do YouTube.
+**Entender como cadastrar uma chave API Google** além da criação do projeto
+**Entender os comandos e endpoints** para requisitar os dados corretos e específicos de playlists e dos vídeos
+
 
 ## Como Rodar o Código?
 
