@@ -40,6 +40,11 @@ Siga os passos abaixo para configurar o ambiente:
      ```bash
      pip install -r requirements.txt
      ```
+5. **Rode o código**
+   -No terminal execute
+   ```
+   python main.py
+   ```
 
 
 ## Construção do Dashboard
