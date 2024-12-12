@@ -42,7 +42,7 @@ Siga os passos abaixo para configurar o ambiente:
      ```
 5. **Rode o código**
    -No terminal execute
-   ```
+   ```bash
    python main.py
    ```
 
