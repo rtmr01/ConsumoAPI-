@@ -83,3 +83,8 @@ O maior desafio na construção do dashboard foi a **transformação de dados**.
 - A ferramenta de dashboard interativo escolhida foi o **Power BI** devido à sua ampla gama de possibilidades para criação de visualizações personalizadas, como a criação do gráfico de menções, integração eficiente com diversas fontes de dados, suporte a transformações avançadas por meio do Power Query e uma interface amigável que facilita a análise interativa. Além disso, o Power BI oferece recursos robustos para criação de relatórios dinâmicos, automação de atualizações de dados e compartilhamento de insights em diferentes plataformas.
 
 </details>
+
+## Autor
+
+Este projeto foi desenvolvido por [Rodrigo Torres M. Rodrigues](https://github.com/rtmr01), como parte de um desafio proposto pela Ray Consulting.
+
