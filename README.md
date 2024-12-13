@@ -63,7 +63,7 @@ Siga os passos abaixo para configurar o ambiente:
 
 O dashboard interativo foi construído com as seguintes ferramentas:
 
-- **PowerBI**: Para visualização dos dados, alimentado pelo arquivo .csv transformado em planilha **Excel** gerada pelo código em Python no dia 09/12/2024.
+- **PowerBI**: Para visualização dos dados, alimentado pelo arquivo .csv gerada pelo código em Python no dia 09/12/2024 transformado em planilha **Excel**.
 - **Figma**: Usado para estilizar o layout e a interface de usuário (UI).
 
 ### Desafios na Construção
