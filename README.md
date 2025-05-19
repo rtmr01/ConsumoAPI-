@@ -1,4 +1,4 @@
-# Desafio de Consumo de API - Ray Consulting
+# Desafio de Consumo de API 
 
 <details>
 <summary><strong>Código Python</strong></summary>
