@@ -1,7 +1,7 @@
 import googleapiclient.discovery
 import csv
 
-api_key = "AIzaSyDFYO5NXhuAMVgiXjUgDdCZjhpafRJebx8"  # MINHA CHAVE API
+api_key = ""  # coloque aqui sua CHAVE API
 
 # Inicializar o cliente da API YouTube
 youtube = googleapiclient.discovery.build("youtube", "v3", developerKey=api_key)
